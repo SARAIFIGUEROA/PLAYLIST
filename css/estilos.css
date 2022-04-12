@@ -1,0 +1,32 @@
+
+body{
+    background-color:black;
+}
+/* header */
+header {
+    text-align: center;
+    height: 70px;
+    background-color: tomato;
+}
+
+/*principal*/
+main{
+    display: flex;
+    justify-content: center;
+}
+td{  background-color: black;
+     color: silver;
+}
+th{background-color:#ffa300
+}
+
+table{background-color: deeppink;
+    width: 75%;
+border-collapse: collapse;
+}
+
+tr{border: 2px solid #ffcc50 ;
+text-align: center;}
+
+
+h1{color:#ffff9a; }
